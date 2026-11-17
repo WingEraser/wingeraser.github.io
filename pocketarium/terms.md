@@ -138,8 +138,9 @@ compatible with every device or Android version.
 
 ## 8. Ads and monetisation
 
-The Service is supported by advertising supplied by Google AdMob. By using the
-Service, you agree to receive ads. You can make the app ad-free for 30 minutes at a
+The Service is supported by advertising supplied by Google AdMob (application ID
+`ca-app-pub-2121193044752436~5708354684`). By using the Service, you agree to
+receive ads. You can make the app ad-free for 30 minutes at a
 time by choosing to watch a rewarded video, at your option.
 
 There are currently no in-app purchases or subscriptions. If we introduce paid
@@ -216,7 +217,7 @@ goodwill, or device functionality, arising out of or related to the Service, eve
 if we have been advised of the possibility.
 
 To the maximum extent permitted by law, our total aggregate liability arising out
-out of or relating to the Service is limited to the greater of (a) the amount you paid
+of or relating to the Service is limited to the greater of (a) the amount you paid
 us in the 12 months before the event giving rise to the claim, or (b) EUR 50.
 
 Nothing in these Terms limits liability for death or personal injury caused by

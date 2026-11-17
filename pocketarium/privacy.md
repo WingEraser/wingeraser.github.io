@@ -60,6 +60,10 @@ This data is used only to run the app's features. **We do not receive it.** It i
 deleted when you delete it in the app, clear the app's storage, or uninstall the
 app. You can remove all of it at once in **Settings → Data → Delete all data**.
 
+You are not required to provide any of this data. The trainer name, photo, tagline,
+and other profile fields are optional; leaving them blank does not prevent you from
+using any feature.
+
 The photo picker is handled by Android. The app does not request broad access to
 your photo library, and it does not request camera or microphone access.
 
@@ -89,8 +93,9 @@ devices.
 
 ### 2.3 Advertising (Google AdMob)
 
-The app displays ads supplied by **Google AdMob** (Google Mobile Ads SDK). To
-serve and measure ads, Google and its ad partners may process:
+The app displays ads supplied by **Google AdMob** (Google Mobile Ads SDK, AdMob
+application ID `ca-app-pub-2121193044752436~5708354684`). To serve and measure ads,
+Google and its ad partners may process:
 
 - your **Android Advertising ID (AD ID)** and app-set ID;
 - IP address (which may be used to infer approximate location);
