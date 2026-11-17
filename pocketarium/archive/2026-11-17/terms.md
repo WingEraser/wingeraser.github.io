@@ -215,20 +215,25 @@ excluded or limited under the consumer law that applies to you.
 ## 13. Limitation of liability
 
 To the maximum extent permitted by law, we are not liable for indirect, incidental,
-special, consequential, or punitive damages, or for loss of data, profits,
-goodwill, or device functionality, arising out of or related to the Service, even
-if we have been advised of the possibility.
+special, consequential, or punitive damages, or for loss of profits, goodwill, or
+device functionality, arising out of or related to the Service, even if we have been
+advised of the possibility.
+
+To the extent permitted by law, we are not liable for loss of data that results from
+your failure to keep a backup as described in section 9.
 
 To the maximum extent permitted by law, our total aggregate liability arising out
 of or relating to the Service is limited to the greater of (a) the amount you paid
 us in the 12 months before the event giving rise to the claim, or (b) EUR 50.
 
 Nothing in these Terms limits liability for death or personal injury caused by
-negligence, for fraud or fraudulent misrepresentation, or for any other liability
-that cannot be limited by law. If you are a consumer in the EEA, the UK, or another
-jurisdiction with mandatory consumer protections, you keep all mandatory rights and
-remedies, and the limitations above apply only to the extent permitted in your
-country.
+negligence, for fraud or fraudulent misrepresentation, for intent or gross
+negligence, or for any other liability that cannot be limited by law. Nothing in
+these Terms limits your statutory rights under applicable data protection law.
+
+If you are a consumer in the EEA, the UK, or another jurisdiction with mandatory
+consumer protections, you keep all mandatory rights and remedies, and the
+limitations above apply only to the extent permitted in your country.
 
 ---
 
